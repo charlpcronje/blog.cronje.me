@@ -1,5 +1,9 @@
 # Quick Start
 
+First just try running `docker compose up` after creating a .env file from .env.example. That should work
+
+## Otherwize
+
 Use the `.env` file to set up your local website variables including url and database name / credentials.
 
     cd cli
